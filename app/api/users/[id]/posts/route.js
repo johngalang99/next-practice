@@ -17,3 +17,5 @@ export const GET = async (req, { params }) => {
     });
   }
 };
+
+export const POST = async (req, { params, body }) => {};
